@@ -10,7 +10,7 @@ Data integration example for biomedical data
 
 # How to run
 
-python3.7 init_db.py url userName password operation
+`python3.7 init_db.py url userName password operation`
 
 operation - sample, hugosymbol, mutations
 
